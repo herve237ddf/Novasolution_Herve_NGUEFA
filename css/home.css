@@ -273,6 +273,53 @@ body {
     background: var(--secondary-color);
 }
 
+#portfolio h2 {
+    color: var(--primary-color);
+    font-size: 36px;
+    margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
+}
+
+#portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+#portfolio .service .img {
+    height: 200px;
+    background: #eee;
+    border-radius: 7px 7px 0 0;
+}
+
+#portfolio .service p{
+    margin: 5px 0 10px 0;
+}
+
+#portfolio .service .p1{
+    background-image: url(../images/projet1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p2{
+    background-image: url(../images/siteWeb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p3{
+    background-image: url(../images/strategie.jpg);
+    background-size: cover;
+    background-position: center;
+}#portfolio {
+    width: 100%;
+    padding: 80px 5rem;
+    text-align: center;
+    background: var(--secondary-color);
+}
 
 #portfolio h2 {
     color: var(--primary-color);
@@ -298,16 +345,163 @@ body {
 #portfolio .service p{
     margin: 5px 0 10px 0;
 }
+
 #portfolio .service .p1{
     background-image: url(../images/projet1.png);
     background-size: cover;
     background-position: center;
 }
+
 #portfolio .service .p2{
     background-image: url(../images/siteWeb.jpg);
     background-size: cover;
     background-position: center;
 }
+
+#portfolio .service .p3{
+    background-image: url(../images/strategie.jpg);
+    background-size: cover;
+    background-position: center;
+}#portfolio {
+    width: 100%;
+    padding: 80px 5rem;
+    text-align: center;
+    background: var(--secondary-color);
+}
+
+#portfolio h2 {
+    color: var(--primary-color);
+    font-size: 36px;
+    margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
+}
+
+#portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+#portfolio .service .img {
+    height: 200px;
+    background: #eee;
+    border-radius: 7px 7px 0 0;
+}
+
+#portfolio .service p{
+    margin: 5px 0 10px 0;
+}
+
+#portfolio .service .p1{
+    background-image: url(../images/projet1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p2{
+    background-image: url(../images/siteWeb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p3{
+    background-image: url(../images/strategie.jpg);
+    background-size: cover;
+    background-position: center;
+    }#portfolio {
+    width: 100%;
+    padding: 80px 5rem;
+    text-align: center;
+    background: var(--secondary-color);
+}
+
+#portfolio h2 {
+    color: var(--primary-color);
+    font-size: 36px;
+    margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
+}
+
+#portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+#portfolio .service .img {
+    height: 200px;
+    background: #eee;
+    border-radius: 7px 7px 0 0;
+}
+
+#portfolio .service p{
+    margin: 5px 0 10px 0;
+}
+
+#portfolio .service .p1{
+    background-image: url(../images/projet1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p2{
+    background-image: url(../images/siteWeb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p3{
+    background-image: url(../images/strategie.jpg);
+    background-size: cover;
+    background-position: center;
+}#portfolio {
+    width: 100%;
+    padding: 80px 5rem;
+    text-align: center;
+    background: var(--secondary-color);
+}
+
+#portfolio h2 {
+    color: var(--primary-color);
+    font-size: 36px;
+    margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
+}
+
+#portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+#portfolio .service .img {
+    height: 200px;
+    background: #eee;
+    border-radius: 7px 7px 0 0;
+}
+
+#portfolio .service p{
+    margin: 5px 0 10px 0;
+}
+
+#portfolio .service .p1{
+    background-image: url(../images/projet1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p2{
+    background-image: url(../images/siteWeb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 #portfolio .service .p3{
     background-image: url(../images/strategie.jpg);
     background-size: cover;
@@ -322,7 +516,55 @@ body {
 }
 
 .wook_process {
-    max-width: 1200px;
+    max-#portfolio {
+    width: 100%;
+    padding: 80px 5rem;
+    text-align: center;
+    background: var(--secondary-color);
+}
+
+#portfolio h2 {
+    color: var(--primary-color);
+    font-size: 36px;
+    margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
+}
+
+#portfolio .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+#portfolio .service .img {
+    height: 200px;
+    background: #eee;
+    border-radius: 7px 7px 0 0;
+}
+
+#portfolio .service p{
+    margin: 5px 0 10px 0;
+}
+
+#portfolio .service .p1{
+    background-image: url(../images/projet1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p2{
+    background-image: url(../images/siteWeb.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#portfolio .service .p3{
+    background-image: url(../images/strategie.jpg);
+    background-size: cover;
+    background-position: center;
+}dth: 1200px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;

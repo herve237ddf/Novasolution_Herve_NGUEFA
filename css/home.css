@@ -387,12 +387,14 @@ body {
 
 @media (max-width: 768px) {
     .wook_process {
+        padding: 5rem;
         flex-direction: column;
         align-items: center;
         text-align: center;
     }
 
     .wook_process .speech {
+        width: 80%;
         text-align: center;
     }
     .flex{

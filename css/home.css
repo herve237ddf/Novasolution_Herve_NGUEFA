@@ -411,6 +411,8 @@ body {
     padding: 80px 5rem;
     text-align: center;
     background: var(--secondary-color);
+    place-content: center;
+    place-items: center;
 }
 
 #process h3,

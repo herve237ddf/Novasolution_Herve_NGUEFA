@@ -404,6 +404,9 @@ body {
     display: block;
     margin-left: 10px;
     }
+    #services{
+        place-content: center;
+    }
 }
 
 #services {

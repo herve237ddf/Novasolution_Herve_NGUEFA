@@ -392,8 +392,7 @@ body {
         text-align: center;
     }
 
-    .wook_process .speech {
-        width: 80%;
+    .wook_process .speech{
         text-align: center;
     }
     .flex{
@@ -402,10 +401,6 @@ body {
     .flex :nth-child(2) {
     display: block;
     margin-left: 10px;
-    }
-    #services{
-        display : flex ;
-        justify-content: center;
     }
 }
 
@@ -421,6 +416,8 @@ body {
     color: var(--primary-color);
     font-size: 36px;
     margin-bottom: 20px;
+    place-content: center;
+    place-items: center;
 }
 
 #process p {

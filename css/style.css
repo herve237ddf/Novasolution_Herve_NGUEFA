@@ -1,0 +1,123 @@
+
+
+*{
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/*header*/
+
+.nova-header {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  padding: 0;
+}
+
+header .container {
+    max-width: 1900px;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1, h2, h3 {
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nova-logo {
+  font-weight: bold;
+  color: #6a00ff;
+  font-size: 22px;
+}
+
+.nova-nav {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.btn {
+  background: #6a00ff;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 5px;
+}
+
+/*Acceuil*/
+
+#acceuil{
+    min-width: 1200px;
+    height: 90vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(27.5rem,1fr));
+    gap: 10rem;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 8rem;
+}
+.description{
+    margin: 5rem 0;
+}
+.description h2{
+    font-size: 42px;
+    size: 40px;
+}
+.description p{
+    margin: 10px 0 40px 0;
+
+}
+.description .detail{
+    width: 80%;
+    height: 10vh;
+    background-color: #ffffff;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 0 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.description .detail .step1 {
+    width: 35%;
+    height: 10vh;
+    text-align: center;
+}
+.description .detail .step2 {
+    width: 35%;
+    height: 10vh;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+    text-align: center;
+}
+.description .detail .step3 {
+    width: 35%;
+    height: 10vh;
+    text-align: center;
+}
+.photo{
+    width: 20rem;
+    height: 25rem;
+    background-color: #222;
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    margin: 5rem 0;
+}
+
+#experiance{
+    min-width: 1200px;
+    height: 90vh;
+    background-color: #e4e2e2;
+    display: flex;
+    justify-content: center;
+    padding: 0 8rem;
+}

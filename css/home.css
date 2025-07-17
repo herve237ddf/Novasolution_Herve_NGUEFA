@@ -536,6 +536,8 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
     margin-top: 40px;
+    place-content: center;
+    place-items: center;  
 }
 
 #portfolio .service .img {
@@ -564,7 +566,7 @@ body {
     background-image: url(../images/strategie.jpg);
     background-size: cover;
     background-position: center;
-}dth: 1200px;
+    width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;

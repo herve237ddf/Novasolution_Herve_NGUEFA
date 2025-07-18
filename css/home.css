@@ -454,7 +454,8 @@ body {
     background-image: url(../images/strategie.jpg);
     background-size: cover;
     background-position: center;
-}#portfolio {
+}
+#portfolio {
     width: 100%;
     padding: 80px 5rem;
     text-align: center;
@@ -639,8 +640,8 @@ body {
         display: flex;
     }
     .flex :nth-child(2) {
-    display: block;
-    margin-left: 10px;
+        display: block;
+        margin-left: 10px;
     }
     .about-right .action-buttons {
         display: flex;
@@ -797,6 +798,9 @@ footer a {
     #portfolio .grid {
         place-content: center;
         place-items: center;    
+    }
+    #experiance p{
+        size:12px
     }
 }
 

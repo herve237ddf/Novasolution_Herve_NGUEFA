@@ -308,7 +308,8 @@ body {
     background-image: url(../images/strategie.jpg);
     background-size: cover;
     background-position: center;
-}#portfolio {
+}
+#portfolio {
     width: 100%;
     padding: 80px 5rem;
     text-align: center;
@@ -809,6 +810,9 @@ footer a {
     #process p,
     #portfolio p {
         padding: 0 10px;
+    }
+    #experiance p{
+        size:12px
     }
 }
 

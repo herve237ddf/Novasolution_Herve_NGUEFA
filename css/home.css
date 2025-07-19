@@ -51,7 +51,9 @@ body {
     text-decoration: none;
     z-index: 999;
 }
-
+.navbar-logo img{
+    width: 200px;
+}
 .navbar-menu {
     display: flex;
     gap: 1.5rem;
